@@ -12,7 +12,7 @@ I use this GitHub to continuously learn and apply my knowledge through diverse m
 
 ## 📫 Get in Touch
 
-**LinkedIn:** [linkedin.com/in/yuri-croci](www.linkedin.com/in/yuri-croci)  
+**LinkedIn:** [linkedin.com/in/yuri-croci](https://www.linkedin.com/in/yuri-croci)  
 **Email:** [yuri.croci.career@gmail.com](mailto:yuri.croci.career@gmail.com)
 
 ---
