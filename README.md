@@ -2,7 +2,7 @@
 
 Recent Statistics graduate from the University of Geneva, passionate about turning complex data into actionable insights. My master's thesis developed non-parametric methods for conditional distribution forecasting in time series, applied to extreme event prediction.
 
-I use this GitHub to continuously learn and apply my knowledge through diverse machine learning and data science projects.
+I use this GitHub to continuously learn and apply my knowledge through data science and data analyst projects.
 
 ## 📂 Projects
 
