@@ -11,7 +11,7 @@ This work extends Engression to model full conditional distributions with tempor
 
 <br> 
 
-**[Movie Recommendation System](https://github.com/Croci-Yuri/Movie_Recommendation_System)** *[In Progress]* – A Comparative Study of Collaborative Filtering Approaches built on the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/). 
+**[Movie Recommendation System](https://github.com/Croci-Yuri/Movie_Recommendation_System)** – A Comparative Study of Collaborative Filtering Approaches built on the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/).   
 The project covers initial data cleaning and exploratory data analysis, followed by the implementation and comparison of memory-based, content-based, model-based, and hybrid collaborative filtering approaches, evaluated under warm and cold start settings.
 
 <br>
