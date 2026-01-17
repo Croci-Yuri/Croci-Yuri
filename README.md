@@ -15,7 +15,7 @@ Recent Statistics graduate from the University of Geneva with a background in ec
 
 <br> 
 
-**[Movie Recommendation System](https://github.com/Croci-Yuri/Movie_Recommendation_System)** – Investigation and Implementation of Recommendation Models on [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/).   
+**[Movie Recommendation System](https://github.com/Croci-Yuri/Movie_Recommendation_System)** – Exploration and evaluation of recommendation algorithms on the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/).   
 - This project covers data exploration, preprocessing, and systematic comparison of content-based filtering, memory-based collaborative filtering, and model-based approaches. Based on performance insights, I designed a hybrid model to improve recommendation accuracy across both warm and cold-start scenarios.
 
 <br>
