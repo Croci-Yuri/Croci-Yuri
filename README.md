@@ -2,8 +2,11 @@
 
 Recent Statistics graduate from the University of Geneva with a background in economics, passionate about turning complex data into actionable insights. My master's thesis developed non-parametric methods for conditional distribution forecasting in time series, with applications to extreme event prediction and uncertainty quantification.
 
-I use this GitHub to continuously learn and apply my skills through data science and data analysis projects.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ## 📂 Projects
 
