@@ -11,7 +11,7 @@ Recent Statistics graduate from the University of Geneva with a background in ec
 ## 📂 Projects
 
 **[Time Series Engression](https://github.com/Croci-Yuri/Time_Series_Engression_Master_Thesis)** – Master's thesis project extending the Engression framework for temporal forecasting.
-- Developed a non-parametric model that captures full conditional distributions with temporal dependencies and input-dependent noise, enabling reliable uncertainty quantification and improved prediction of extreme events. Compared and evaluated on synthetic data and applied to extreme flood prediction in Swiss river discharge datasets.
+- Developed a non-parametric model in PyTorch that captures full conditional distributions with temporal dependencies and input-dependent noise, enabling reliable uncertainty quantification and improved prediction of extreme events. Compared and evaluated on synthetic data and applied to extreme flood prediction in Swiss river discharge datasets.
 
 <br> 
 
