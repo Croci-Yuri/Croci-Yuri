@@ -15,10 +15,14 @@ Recent Statistics graduate from the University of Geneva with a background in ec
 
 <br> 
 
-**[Hybrid Movie Recommendation System](https://github.com/Croci-Yuri/Hybrid_Movie_Recommendation_System)** – Exploration and evaluation of recommendation algorithms on the [MovieLens 20M dataset]([https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/20m/)).   
-- This project covers data exploration, preprocessing, and systematic comparison of content-based filtering, memory-based collaborative filtering, and model-based approaches. Based on performance insights, I designed in PyTorch a hybrid neural network model to improve recommendation accuracy across both warm-start and cold-start scenarios.
+**[Hybrid Movie Recommendation System](https://github.com/Croci-Yuri/Hybrid_Movie_Recommendation_System)** – Exploration and evaluation of recommendation algorithms on the [MovieLens 20M dataset](https://grouplens.org/datasets/movielens/20m/).   
+- Conducted data exploration, preprocessing, and systematic comparison of content-based filtering, memory-based collaborative filtering, and model-based approaches. Based on performance insights, designed a hybrid neural network in PyTorch to improve recommendation accuracy across both warm-start and cold-start scenarios.
 
 <br>
+
+**[Loan Default Prediction](https://github.com/Croci-Yuri/Home_Credit_Risk_Analysis)** – Credit risk modeling and customer segmentation for lending strategy using the [Home Credit Default Risk dataset](https://www.kaggle.com/c/home-credit-default-risk).
+- Developed a LightGBM classification model to predict loan defaults on 300,000+ applications using SQL on BigQuery for data processing, Python for feature engineering and model optimization, and Power BI for visualization. Based on model predictions, performed customer risk segmentation to identify characteristics that distinguish risk tiers and inform credit evaluation strategies.
+
 
 ## 📫 Get in Touch
 
