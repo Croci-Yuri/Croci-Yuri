@@ -9,6 +9,7 @@ Recent Statistics graduate from the University of Geneva with a background in ec
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 
+
 ## 📂 Projects
 
 **[Time Series Engression](https://github.com/Croci-Yuri/Time_Series_Engression_Master_Thesis)** – Master's thesis project extending the Engression framework for temporal forecasting.
@@ -24,14 +25,12 @@ Recent Statistics graduate from the University of Geneva with a background in ec
 **[Default Risk Assessment](https://github.com/Croci-Yuri/Home_Credit_Risk_Analysis)** – Credit risk modeling and customer segmentation using the [Home Credit Default Risk dataset](https://www.kaggle.com/c/home-credit-default-risk).
 - Developed a LightGBM classification model to predict loan defaults on 300k+ applications using SQL on BigQuery for data processing, Python for feature engineering and model optimization, and Power BI for visualization. Based on model predictions, performed customer risk segmentation to identify characteristics that distinguish risk tiers and inform credit evaluation strategies.
 
-<br>
+
 
 ## 📫 Get in Touch
 
 **LinkedIn:** [linkedin.com/in/yuri-croci](https://www.linkedin.com/in/yuri-croci)  
 **Email:** [yuri.croci.career@gmail.com](mailto:yuri.croci.career@gmail.com)
-
-<br>
 
 ---
 
