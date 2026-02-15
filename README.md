@@ -1,6 +1,6 @@
 # Hi, I'm Yuri 👋
 
-Recent Statistics graduate from the University of Geneva with a background in economics, passionate about turning complex data into actionable insights. My master's thesis developed non-parametric methods for conditional distribution forecasting in time series, with applications to extreme event prediction and uncertainty quantification.
+Recent Statistics graduate from the University of Geneva with a background in economics, interested in statistical modeling, machine learning, and risk analytics. My master’s thesis focused on non-parametric methods for conditional distribution forecasting in time series, with applications to extreme event prediction and uncertainty quantification.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
